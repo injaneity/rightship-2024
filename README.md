@@ -1,10 +1,4 @@
 # Rightship 2024
-Data analytics, visualisation and business solution competition
-
-*Libraries Used:*
-Pandas
-Matplotlib
-
 
 **Winner, University Category**
 
